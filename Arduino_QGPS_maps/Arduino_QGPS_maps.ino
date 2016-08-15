@@ -1,5 +1,8 @@
 /**********************************************************************************************************************************
- * QuadrinoGPS Simple Interface Sample for Arduino
+ * QuadrinoGPS Interface Sample for Arduino
+ *
+ * This sample sketch reads location from the Quadrino GPS and writes Google Maps hyperlinks (cut and paste the hyperlink
+ * into your browser address bar.
  *
  * MIT License:
  *
