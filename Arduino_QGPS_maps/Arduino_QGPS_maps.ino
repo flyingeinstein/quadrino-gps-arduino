@@ -1,8 +1,9 @@
 /**********************************************************************************************************************************
  * QuadrinoGPS Interface Sample for Arduino
  *
- * This sample sketch reads location from the Quadrino GPS and writes Google Maps hyperlinks (cut and paste the hyperlink
- * into your browser address bar.
+ * This sample sketch reads location and status from the Quadrino GPS and writes to the Arduino Serial Monitor comma seperated
+ * lines of text each second. Use the web site http://www.gpsvisualizer.com/ to parse and view or convert the lines into
+ * other formats (for example Google Maps KML).
  *
  * MIT License:
  *

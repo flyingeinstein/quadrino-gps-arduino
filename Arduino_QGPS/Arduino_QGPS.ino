@@ -1,6 +1,9 @@
 /**********************************************************************************************************************************
  * QuadrinoGPS Simple Interface Sample for Arduino
  *
+ * This sample sketch reads location and status from the Quadrino GPS and writes to the Arduino Serial Console with Google Maps 
+ * hyperlinks (cut and paste the hyperlink into your browser address bar.
+ *
  * MIT License:
  *
  * Copyright (c) 2016 FlyingEinstein, LLC and Colin MacKenzie
