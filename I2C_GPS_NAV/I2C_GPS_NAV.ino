@@ -1,6 +1,7 @@
 /*******************************************************************************************************************************
  * I2CGPS  - Inteligent GPS and NAV module for MultiWii by EOSBandi
- * V2.1   
+ *           Modifications for QuadrinoGPS and Venus8 GPS chipset by Colin MacKenzie (FlyingEinstein)
+ * V2.2
  *
  * This program implements position hold and navigational functions for MultiWii by offloading caclulations and gps parsing 
  * into a secondary arduino processor connected to the MultiWii via i2c.
